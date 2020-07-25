@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/workout-timer/static/css/main.462e31e9.chunk.css",
+    "main.js": "/workout-timer/static/js/main.865063aa.chunk.js",
+    "main.js.map": "/workout-timer/static/js/main.865063aa.chunk.js.map",
+    "runtime-main.js": "/workout-timer/static/js/runtime-main.684376d0.js",
+    "runtime-main.js.map": "/workout-timer/static/js/runtime-main.684376d0.js.map",
+    "static/js/2.77ca6449.chunk.js": "/workout-timer/static/js/2.77ca6449.chunk.js",
+    "static/js/2.77ca6449.chunk.js.map": "/workout-timer/static/js/2.77ca6449.chunk.js.map",
+    "index.html": "/workout-timer/index.html",
+    "precache-manifest.80ffda5706b10ac33f0bbf2151306c49.js": "/workout-timer/precache-manifest.80ffda5706b10ac33f0bbf2151306c49.js",
+    "service-worker.js": "/workout-timer/service-worker.js",
+    "static/css/main.462e31e9.chunk.css.map": "/workout-timer/static/css/main.462e31e9.chunk.css.map",
+    "static/js/2.77ca6449.chunk.js.LICENSE.txt": "/workout-timer/static/js/2.77ca6449.chunk.js.LICENSE.txt",
+    "static/media/beeps.mp3": "/workout-timer/static/media/beeps.35c4e33a.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.684376d0.js",
+    "static/js/2.77ca6449.chunk.js",
+    "static/css/main.462e31e9.chunk.css",
+    "static/js/main.865063aa.chunk.js"
+  ]
+}
